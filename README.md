@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kumaradarsh00
+- 👋 Hi, I’m Adarsh Kumar
 - 👀 I’m interested in Android Development
 - 🌱 I’m currently learning animations in Android
 - 💞️ I’m looking to collaborate on Android
